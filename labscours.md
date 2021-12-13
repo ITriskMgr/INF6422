@@ -1,5 +1,3 @@
-Cette liste des labs provient du livre du cours.
-
 **Lab 1a: Introduction et préparation**
  - Présentation des laboratoires
  - Mise en place de l’environnement de laboratoire sur vos ordinateurs portables.
