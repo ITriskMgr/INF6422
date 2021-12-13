@@ -1,6 +1,11 @@
 Cette liste des labs provient du livre du cours.
 
-**Lab 1: Machine Learning for Cybersecurity**
+**Lab 1a: Introduction et préparation**
+ - Présentation des laboratoires
+ - Mise en place de l’environnement de laboratoire sur vos ordinateurs portables.
+ - Intro à Junyper Notebooks, Pandas, Numpy, etc.
+
+**Lab 1b: Machine Learning for Cybersecurity**
 https://github.com/ITriskMgr/Machine-Learning-for-Cybersecurity-Cookbook/tree/master/Chapter01
  - Train-test-splitting your data
  - Standardizing your data
@@ -56,7 +61,7 @@ https://github.com/ITriskMgr/Machine-Learning-for-Cybersecurity-Cookbook/tree/ma
  - Ad blocking using machine learning
  - Wireless indoor localization
 
-**Lab 4: Machine Learning-Based Malware Detection**
+**Lab 4a: Machine Learning-Based Malware Detection**
 https://github.com/ITriskMgr/Machine-Learning-for-Cybersecurity-Cookbook/tree/master/Chapter02
  - Malware static analysis
  - Malware dynamic analysis
@@ -68,6 +73,19 @@ https://github.com/ITriskMgr/Machine-Learning-for-Cybersecurity-Cookbook/tree/ma
  - Building a static malware detector
  - Tackling class imbalance
  - Handling type I and type II errors
+
+**Lab 4b: Advanced Malware Detection**
+https://github.com/ITriskMgr/Machine-Learning-for-Cybersecurity-Cookbook/tree/master/Chapter03
+ - Detecting obfuscated JavaScript
+ - Featurizing PDF files
+ - Extracting N-grams quickly using the hash-gram algorithm
+ - Building a dynamic malware classifier
+ - MalConv – end-to-end deep learning for malicious PE detection
+ - Using packers
+ - Assembling a packed sample dataset
+ - Building a classifier for packers
+ - MalGAN – creating evasive malware
+ - Tracking malware drift
 
 **Lab 5a: Spam filtering using machine learning**
 https://github.com/ITriskMgr/Machine-Learning-for-Cybersecurity-Cookbook/tree/master/Chapter06/Spam%20Filtering%20Using%20Machine%20Learning
