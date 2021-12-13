@@ -1,4 +1,5 @@
-# INF6422
+# INF6422: Concepts avancés en sécurité informatique
+
 Ce cours a le double objectif de (1) présenter des problématiques clés en cybersécurité ainsi que (2) de faire l’introduction des techniques et méthodes de recherche et d’évaluation de performance dans le domaine de la cybersécurité. 
 Le cours commence par faire l’introduction des problèmes de cybersécurité dans notre société, mettant la table pour les projets de cours. Ensuite, le cours présente les concepts de l’évaluation de performance en sécurité informatique, ainsi que les méthodes mathématiques et expérimentales qui peuvent être utilisées pour l’étudier. Finalement, le cours couvre un éventail de menaces et de paradigmes de protection des systèmes informatiques, qui inclut les sujets suivants : 
  - Les systèmes de protection contre les attaques de déni de services 
