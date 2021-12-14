@@ -4,6 +4,7 @@
  - Intro à Google Colab, Junyper Notebooks, Pandas, Numpy, etc.
 
 **Premier exercices**
+ - https://colab.research.google.com/github/ryanorsinger/101-exercises/blob/main/101-exercises.ipynb 
  - https://colab.research.google.com/#scrollTo=5fCEDCU_qrC0 
  - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb#scrollTo=rX8mhOLljYeM 
 
