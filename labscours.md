@@ -3,6 +3,10 @@
  - Mise en place de l’environnement de laboratoire sur vos ordinateurs portables.
  - Intro à Google Colab, Junyper Notebooks, Pandas, Numpy, etc.
 
+**Premier exercices**
+ - https://colab.research.google.com/#scrollTo=5fCEDCU_qrC0 
+ - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb#scrollTo=rX8mhOLljYeM 
+
 **Lab 1b: Machine Learning for Cybersecurity**
 https://github.com/ITriskMgr/Machine-Learning-for-Cybersecurity-Cookbook/tree/master/Chapter01
 
