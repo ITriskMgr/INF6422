@@ -1,10 +1,12 @@
 **Lab 1a: Introduction et préparation**
  - Présentation des laboratoires
  - Mise en place de l’environnement de laboratoire sur vos ordinateurs portables.
- - Intro à Junyper Notebooks, Pandas, Numpy, etc.
+ - Intro à Google Colab, Junyper Notebooks, Pandas, Numpy, etc.
 
 **Lab 1b: Machine Learning for Cybersecurity**
 https://github.com/ITriskMgr/Machine-Learning-for-Cybersecurity-Cookbook/tree/master/Chapter01
+
+*Partie 1* 
  - Train-test-splitting your data
  - Standardizing your data
  - Summarizing large data using principal component analysis (PCA)
@@ -12,6 +14,10 @@ https://github.com/ITriskMgr/Machine-Learning-for-Cybersecurity-Cookbook/tree/ma
  - Performing clustering using scikit-learn
  - Training an XGBoost classifier
  - Analyzing time series using statsmodels
+ 
+ Solution: https://github.com/ITriskMgr/INF6422/blob/main/INF6422_Lab_1_part_1.ipynb
+
+*Partie 2*
  - Anomaly detection using Isolation Forest
  - Natural language processing (NLP) using hashing vectorizer and tf-idf with scikit-learn
  - Hyperparameter tuning with scikit-optimize
