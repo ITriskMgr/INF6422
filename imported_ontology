@@ -1,0 +1,10 @@
+This is a list of various ontologys that were imported into the new version:
+
+  <owl:Ontology rdf:about="http://www.semanticweb.org/maleger/ontologies/2022/0/ITCompliance">
+        <owl:imports rdf:resource="http://d3fend.mitre.org/ontologies/d3fend/0.9.2/d3fend.owl"/>
+        <owl:imports rdf:resource="http://www.ida.liu.se/~iislab/projects/secont/Security.owl"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/cert-itc/ontologies/itio"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/simona/ontologies/2013/6/untitled-ontology-8"/>
+    </owl:Ontology>
+    
+    These where then merged into the ITCompliance_v1-0b.owl ontology. From there the ontology was further revised to remove inconsistences, duplications and integrte the data in a mapper that was consisten with the new intent.
